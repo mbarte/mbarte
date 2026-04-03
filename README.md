@@ -14,8 +14,5 @@ I'm fascinated by the potential of LLMs and AI to transform applications. I enjo
 ### 💼 Work
 Most of my professional contributions are made through my company account: [@mbartsph](https://github.com/mbartsph)
 
-### 📫 Connect
-- GitHub: [mbarte](https://github.com/mbarte)
-
 ---
 *Building intelligent, dockerized solutions.*
