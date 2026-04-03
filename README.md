@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**mbarte/mbarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michele, a full-stack developer passionate about building robust, production-ready applications with Python, Flask, and Docker, leveraging AI.
 
-Here are some ideas to get you started:
+### 🔭 AI & LLM Enthusiast
+I'm fascinated by the potential of LLMs and AI to transform applications. I enjoy integrating intelligent features into real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Backend**: Python, Flask, PHP
+- **DevOps**: Docker, Docker Compose, Celery, Redis
+- **AI/ML**: LangChain, OpenAI, FAISS, sentence transformers
+- **Databases**: MongoDB, MySQL
+
+### 💼 Work
+Most of my professional contributions are made through my company account: [@mbartsph](https://github.com/mbartsph)
+
+### 📫 Connect
+- GitHub: [mbarte](https://github.com/mbarte)
+
+---
+*Building intelligent, dockerized solutions.*
